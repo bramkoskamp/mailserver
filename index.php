@@ -4,7 +4,7 @@ $subject = "Hello World";
 $message = "Dit is het eerste mail bericht via PHP";
 
 // Recipient email address
-$to = 'p.veltman@graafschapcolle.nl';
+$to = 'net24pveltman.gc-webhosting.nl';
 
 // Email headers
 $headers = 'From: ' . $email . "\r\n" .
